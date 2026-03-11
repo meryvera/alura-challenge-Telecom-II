@@ -71,5 +71,5 @@ Se priorizó el **Recall** y el **F1-Score** sobre la Exactitud, ya que para Tel
 
 ---
 
-**Analista Responsable:** [Tu Nombre]  
+**Analista Responsable:** Mery Vera  
 **Proyecto:** Telecom X - Data Science LATAM
